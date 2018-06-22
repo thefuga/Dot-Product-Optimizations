@@ -1,3 +1,5 @@
+#include <omp.h>
+
 /*
 This version calculates the dot product using SIMD instructions.
 */

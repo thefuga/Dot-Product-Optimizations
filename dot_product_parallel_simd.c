@@ -1,3 +1,5 @@
+#include <omp.h>
+
 /*
 This version explores paralelism and simd instructions.
 */
